@@ -1,4 +1,3 @@
-// Listing 9.16 score.ck controls individual players and tempo via BPM
 // score.ck, on the fly drumming with global BPM conducting
 // Here we make our BPM instance that controls tempo
 BPM tempo;              // (1) Makes a global BPM to control from here.
