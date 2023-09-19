@@ -5,7 +5,7 @@ Dive into the captivating world of the "Song of Storms" project, a musical odyss
 
 - **Check Out Our Culmination**: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 - **Delve Into Our Technology Exploration**: [GitHub Repository](https://github.com/JeffreyLuo333/SongOfStorms)
-- **Composition Details**: [Overall Structure](https://github.com/JeffreyLuo333/SongOfStorms/SongOfStorms.pdf)
+- **Composition Details**: [Overall Structure](https://github.com/JeffreyLuo333/SongOfStorms/blob/main/SongOfStorms.pdf)
 
 This repository contains the files and guidelines pertaining to the musical component of our project. Feel free to use them as you deem appropriate.
 
