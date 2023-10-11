@@ -16,11 +16,12 @@ This document has three chapters – AI Vocaloids (Merrow and Nakumo), Chuck - 
 ## AI Vocaloids (Merrow and Nakumo)
 <img src="images/Vocaloids.jpg" width="400" height="200">
 
-The inclusion of Vocaloids in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
+The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
 Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
 
 Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singing Voice Generator as freeware. This innovative tool harnesses AI to evaluate score data and autonomously produce vocals. Navigating it presented a challenge, as all the instructions are provided solely in Japanese. After investing time to decipher its functionalities, we've gained valuable insights. Let me walk you through the steps. As a side note, this is why Merrow and Nakumo sing in Japanese.
 
+### Instructions
 - Download NEUTRINO/Voicebanks here: [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC)
 - Extract the NEUTRINO folder from the zip file appropriate for your platform and save it to your local file system. 
 - The MERROW voicebank is included with the NEUTRINO package by default. If you wish to use a different voicebank, you can download them from [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC). After downloading, extract the voicebank and place it in the NEUTRINO/model folder.
@@ -34,6 +35,18 @@ Good luck and have fun!!!!!
 ## Chuck - Music Programming Language
 <img src="images/chuck-logo2023w.png" width="200" height="200">
 
+__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__Chuck__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
+
+### Instructions
+- Download Chuck here: [Chuck](https://chuck.stanford.edu/)
+- The music score for Chuck is chuck/SongOfStroms_Part02.mscz.
+- The chuck codes implement for different instruments are under chuck.
+- Save the generate music to .wav: 
+  - Following the [instructions](http://learningchuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
+  - Using a command/terminal app, type "chuck score.ck rec-auto.ck -s" 
 
 ## Google NSynth Super - AI-Power Synthesizer
 <img src="images/GoogleNSynth.jpg" width="200" height="200">
+
+[__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
+
