@@ -14,7 +14,7 @@ This repository contains the files and guidelines pertaining to the musical comp
 This document has three chapters – AI Vocaloids (Merrow and Nakumo), Chuck - Music Programming Langauge, and Google NSynth Super.
 
 ## AI Vocaloids (Merrow and Nakumo)
-<img src="images/Vocaloids.jpg" width="400" height="200">
+[<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
 Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
@@ -33,7 +33,7 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 Good luck and have fun!!!!!
 
 ## ChucK - Music Programming Language
-<img src="images/chuck-logo2023w.png" width="200" height="200">
+[<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
 __Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
 
@@ -46,7 +46,7 @@ __Programming__ offers a unique avenue for musical exploration, which is also a 
   - Using a command/terminal app, type "chuck score.ck rec-auto.ck -s" 
 
 ## Google NSynth Super - AI-Power Synthesizer
-<img src="images/GoogleNSynth.jpg" width="200" height="200">
+[<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
 
