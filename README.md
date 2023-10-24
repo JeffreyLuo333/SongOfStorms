@@ -9,7 +9,7 @@ Dive into the captivating world of the "Song of Storms" project, a musical odyss
 
 This repository contains the files and guidelines pertaining to the musical component of our project. Feel free to use them as you deem appropriate.
 
-### About this document
+## About this document
 
 This document has three chapters – AI Vocaloids (Merrow and Nakumo), Chuck - Music Programming Langauge, and Google NSynth Super.
 
