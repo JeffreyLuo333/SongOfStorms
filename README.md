@@ -32,14 +32,14 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 
 Good luck and have fun!!!!!
 
-## Chuck - Music Programming Language
+## ChucK - Music Programming Language
 <img src="images/chuck-logo2023w.png" width="200" height="200">
 
-__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__Chuck__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
+__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
 
 ### Instructions
 - Download Chuck here: [Chuck](https://chuck.stanford.edu/)
-- The music score for Chuck is chuck/SongOfStroms_Part02.mscz.
+- The music score for ChucK is chuck/SongOfStroms_Part02.mscz.
 - The chuck codes implement for different instruments are under chuck.
 - Save the generate music to .wav: 
   - Following the [instructions](http://learningchuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
