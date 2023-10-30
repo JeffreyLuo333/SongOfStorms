@@ -11,9 +11,12 @@ This repository contains the files and guidelines pertaining to the musical comp
 
 ## About this document
 
-This document has three sections – AI Vocaloids (Merrow and Nakumo), ChucK - Music Programming Langauge, and Google NSynth Super.
+This document contain the following three sections:
+- <a href="#vocaloids">AI Vocaloids (Merrow and Nakumo)</a>,
+- <a href="#chuck">ChucK - Music Programming Langauge</a>,
+- <a href="#nsynth">Google NSynth Super</a>.
 
-## AI Vocaloids (Merrow and Nakumo)
+<h2 id="vocaloids">AI Vocaloids (Merrow and Nakumo)</h2>
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
@@ -32,7 +35,7 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 
 Good luck and have fun!!!!!
 
-## ChucK - Music Programming Language
+<h2 id="vocaloids">ChucK - Music Programming Language</h2>
 [<img src="images/ChucK-logo2023w.png" width="200" height="200">](https://ChucK.stanford.edu/)
 
 __Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://ChucK.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
@@ -45,7 +48,7 @@ __Programming__ offers a unique avenue for musical exploration, which is also a 
   - Following the [instructions](http://learningChucK.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
   - Using a command/terminal app, type "ChucK score.ck rec-auto.ck -s" 
 
-## Google NSynth Super - AI-Power Synthesizer
+<h2 id="nsynth">Google NSynth Super - AI-Power Synthesizer</h2>
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
