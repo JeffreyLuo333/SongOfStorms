@@ -12,12 +12,11 @@ This repository contains the files and guidelines pertaining to the musical comp
 ## About this document
 
 This document contain the following three sections:
-- <a href="#vocaloids">AI Vocaloids (Merrow and Nakumo)</a>,
+- <a href="#ai-vocaloids-merrow-and-nakumo">AI Vocaloids (Merrow and Nakumo)</a>,
 - <a href="#chuck">ChucK - Music Programming Langauge</a>,
 - <a href="#nsynth">Google NSynth Super</a>.
 
-<h2 id="vocaloids">AI Vocaloids (Merrow and Nakumo)</h2>
-
+## AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
