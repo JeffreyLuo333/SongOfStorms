@@ -13,8 +13,8 @@ This repository contains the files and guidelines pertaining to the musical comp
 
 This document contain the following three sections:
 - <a href="#ai-vocaloids-merrow-and-nakumo">AI Vocaloids (Merrow and Nakumo)</a>,
-- <a href="#chuck">ChucK - Music Programming Langauge</a>,
-- <a href="#nsynth">Google NSynth Super</a>.
+- <a href="#chuck---music-programming-language">ChucK - Music Programming Langauge</a>,
+- <a href="#google-nsynth-super---ai-power-synthesizer">Google NSynth Super</a>.
 
 ## AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
@@ -36,17 +36,17 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 Good luck and have fun!!!!!
 
 ## ChucK - Music Programming Language
-[<img src="images/ChucK-logo2023w.png" width="200" height="200">](https://ChucK.stanford.edu/)
+[<img src="images/Chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
-__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://ChucK.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
+__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
 
 ### Instructions
-- Download ChucK here: [ChucK](https://ChucK.stanford.edu/)
-- The music score for ChucK is ChucK/SongOfStroms_Part02.mscz.
-- The ChucK codes implement for different instruments are under ChucK.
+- Download ChucK here: [ChucK](https://chuck.stanford.edu/)
+- The music score for ChucK is chucK/SongOfStroms_Part02.mscz.
+- The ChucK codes implement for different instruments are under chucK.
 - Save the generate music to .wav: 
-  - Following the [instructions](http://learningChucK.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
-  - Using a command/terminal app, type "ChucK score.ck rec-auto.ck -s" 
+  - Following the [instructions](http://learningChuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
+  - Using a command/terminal app, type "chucK score.ck rec-auto.ck -s" 
 
 ## Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
