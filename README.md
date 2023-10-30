@@ -35,8 +35,7 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 
 Good luck and have fun!!!!!
 
-<h2 id="chuck">ChucK - Music Programming Language</h2>
-
+## ChucK - Music Programming Language
 [<img src="images/ChucK-logo2023w.png" width="200" height="200">](https://ChucK.stanford.edu/)
 
 __Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://ChucK.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
@@ -49,8 +48,7 @@ __Programming__ offers a unique avenue for musical exploration, which is also a 
   - Following the [instructions](http://learningChucK.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
   - Using a command/terminal app, type "ChucK score.ck rec-auto.ck -s" 
 
-<h2 id="nsynth">Google NSynth Super - AI-Power Synthesizer</h2>
-
+## Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
