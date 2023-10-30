@@ -36,7 +36,7 @@ Studio Neutrino is based in Japan and offers the NEUTRINO Diffusion – AI Singi
 Good luck and have fun!!!!!
 
 ## ChucK - Music Programming Language
-[<img src="images/Chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
+[<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
 __Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
 
