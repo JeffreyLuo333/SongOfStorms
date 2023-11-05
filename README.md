@@ -37,10 +37,6 @@ Instructions
   - Following the [instructions](http://learningChuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
   - Using a command/terminal app, type "chucK score.ck rec-auto.ck -s" 
 
-- **Check Out Our Culmination**: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
-- **Delve Into Our Technology Exploration**: [GitHub Repository](https://github.com/JeffreyLuo333/SongOfStorms)
-- **Composition Details**: [Overall Structure & Resources](https://github.com/JeffreyLuo333/SongOfStorms/blob/main/SongOfStorms.pdf)
-
 ### 4.2 Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
 
