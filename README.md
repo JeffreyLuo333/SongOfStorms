@@ -6,9 +6,11 @@ To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia
 ## 1. Project objective
 To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the enchanting sounds from Virtual Studio Technology plugins, Google's NSynth neural synthesizer, ChucK music programming language, AI-powered Vocaloid, and human vocals.
 
-## 2. "Song of Storms" background
+## 2. Background for "Song of Storms" 
+"The Legend of Zelda," an iconic video game series that first captivated my brother Michael, showcases the enthralling "Song of Storms," composed by Koji Kondo. Despite the eight-year age gap between my brother and me, this melody has enthralled me, recurring throughout the series and seizing my heart and imagination. Its bewitching tune strikes a chord within me, creating an indelible memory.
 
 
+## 3. Musical production journey and technologies adopted
 Dive into the captivating world of the "Song of Storms" project, a musical odyssey that reimagines a beloved tune from the "Legend of Zelda" video game series. A spirited group of aficionados uniquely blended the soulful strains of human performers with the futuristic vibes of AI-enhanced vocaloids and the rhythm of machinery. Venturing beyond the boundaries of traditional Digital Audio Workstation (DAW) production, this ensemble employed the magic of AI vocaloids, the avant-garde Google Nsynth, and the versatility of the ChucK programming language. 
 
 - **Check Out Our Culmination**: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
