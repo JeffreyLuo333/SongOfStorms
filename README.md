@@ -1,6 +1,9 @@
 # Song of Storms
 [<img src="images/SongOfStorms_Link.jpeg" width="400" height="200">](https://youtu.be/WxbQ2BDVnvQ)
 
+<iframe width="560" height="315" src="https://youtu.be/WxbQ2BDVnvQ" frameborder="0" allowfullscreen></iframe>
+
+
 Dive into the captivating world of the "Song of Storms" project, a musical odyssey that reimagines a beloved tune from the "Legend of Zelda" video game series. A spirited group of aficionados uniquely blended the soulful strains of human performers with the futuristic vibes of AI-enhanced vocaloids and the rhythm of machinery. Venturing beyond the boundaries of traditional Digital Audio Workstation (DAW) production, this ensemble employed the magic of AI vocaloids, the avant-garde Google Nsynth, and the versatility of the ChucK programming language. 
 
 - **Check Out Our Culmination**: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
