@@ -17,10 +17,14 @@ Fascinatingly, the mystical influence of the "Song of Storms" extends even beyon
 
 Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
 
-## 3. Music technologies implemented
+## 3. The musical's composition
+![image](https://github.com/JeffreyLuo333/SongOfStorms/assets/114297879/cf836582-76ee-4ce4-b630-8b1b786daa5d)
+
+
+## 4. Music technologies implemented
 A dynamic ensemble of seven spirited enthusiasts fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the innovative capabilities of AI vocaloids, the pioneering Google Nsynth neural synthesizer, and the flexible ChucK music programming language.
 
-### 3.1 ChucK - Music Programming Language
+### 4.1 ChucK - Music Programming Language
 [<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
 __Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
@@ -37,12 +41,12 @@ Instructions
 - **Delve Into Our Technology Exploration**: [GitHub Repository](https://github.com/JeffreyLuo333/SongOfStorms)
 - **Composition Details**: [Overall Structure & Resources](https://github.com/JeffreyLuo333/SongOfStorms/blob/main/SongOfStorms.pdf)
 
-### 3.2 Google NSynth Super - AI-Power Synthesizer
+### 4.2 Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
 
-### 3.3 AI Vocaloids (Merrow and Nakumo)
+### 4.3 AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
@@ -58,8 +62,6 @@ Instructions
 - Using a text editor, edit the NEUTRINO/Run.bat script to specify the desired score (BASENAME) and voicebank (ModelDir).
 - Using a command/terminal app, navigate to the NEUTRINO folder and then execute Run.bat.
 - The generated sound files can be found in the NEUTRINO/output folder.
-
-## 4. The musical's production journey
 
 
 
