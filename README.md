@@ -18,7 +18,7 @@ Fascinatingly, the mystical influence of the "Song of Storms" extends even beyon
 Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
 
 ## 3. The musical's composition
-The musical consists of 5 sections.
+The musical is composed of five distinct sections.
 
 <img src="images/overall_flow" width="400" height="200"> 
 
