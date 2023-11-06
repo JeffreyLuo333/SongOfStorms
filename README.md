@@ -85,22 +85,28 @@ Step-by-step instructions:
 
 ## 5. Final production
 Our team of seven: 
+
 <img src="images/Team.jpg" width="400" height="200"> 
 
 Snapshots from various parts of the musical:
 __Part I__
+
 <img src="images/Part1_1.jpg" width="400" height="200"> <img src="images/Part1_2.jpg" width="400" height="200"> 
 
 __Part II__
+
 <img src="images/Part2_1.jpg" width="400" height="200"> <img src="images/Part2_2.jpg" width="400" height="200"> 
 
 __Part III__
+
 <img src="images/Part3_1.jpg" width="400" height="200"> <img src="images/Part3_3.jpg" width="400" height="200"> 
 
 __Part IV__
+
 <img src="images/Part4_1.jpg" width="400" height="200"> <img src="images/Part4_2.jpg" width="400" height="200"> 
 
 __Part V__
+
 <img src="images/Part5.jpg" width="400" height="200"> 
 
 Good luck and have fun!!!!!
