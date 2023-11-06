@@ -52,9 +52,9 @@ We have chosen [__ChucK__](https://chuck.stanford.edu/), a programming language 
 
 Instructions for downloading and using ChucK:
 - Download ChucK here: [ChucK](https://chuck.stanford.edu/)
-- Save the generate music to .wav: 
+- Save the generated music as a .wav file: 
   - Follow the [instructions](http://learningChuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
-  - Use a command/terminal app, type "chucK score.ck rec-auto.ck -s" 
+  - Open a command/terminal application, type "chucK score.ck rec-auto.ck -s" 
 
 ### 4.2 Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)<img src="images/NSynth_action.gif" width="300" height="200"> 
@@ -68,10 +68,11 @@ I assembled the instrument based on the [open-source](https://github.com/googlec
 ### 4.3 AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
-The inclusion of __Vocaloids__ in our project was both an inspiration and a challenge presented by my brother Michael. It was he who introduced me to "The Legend of Zelda" in the first place. A fervent admirer of Hatsune Miku, a renowned Vocaloid of his era, he posed this challenge to us. Motivated by his enthusiasm, we embarked on our Vocaloid journey.
+Vocaloid is a singing voice synthesizer software. The integration of __Vocaloid__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
+
 Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
 
-he NEUTRINO Diffusion—an AI-powered Singing Voice Generator offered as freeware by Studio Neutrino—leverages artificial intelligence to analyze musical scores and generate vocals independently. Mastering this tool was challenging due to its instructions being available exclusively in Japanese. However, after dedicating time to unravel its features, we have acquired significant understanding, which we detail further below. This language barrier is the reason why Merrow and Nakumo's vocals are in Japanese rather than English.
+The NEUTRINO Diffusion—an AI-powered Singing Voice Generator offered as freeware by Studio Neutrino—leverages artificial intelligence to analyze musical scores and generate vocals independently. Mastering this tool was challenging due to its instructions being available exclusively in Japanese. However, after dedicating time to unravel its features, we have acquired significant understanding, which we detail further below. This language barrier is the reason why Merrow and Nakumo's vocals are in Japanese rather than English.
 
 Step-by-step instructions:
 - Download the NEUTRINO/Voicebanks from [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC)
