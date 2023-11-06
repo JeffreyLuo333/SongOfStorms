@@ -9,7 +9,7 @@ To craft a miniature prototype of a futuristic orchestra’s music that blends h
 ## 2. Background for "The Legend of Zelda" and "Song of Storms" 
 "The Legend of Zelda," an iconic video game series that first captivated my brother Michael, showcases the enthralling __"Song of Storms__," composed by Koji Kondo. Despite the eight-year age gap between my brother and me, this melody has enthralled me, recurring throughout the series and seizing my heart and imagination. Its bewitching tune strikes a chord within me, creating an indelible memory.
 
-<img src="images/LegendOfZelda.jpg" width="500" height="250"> <img src="images/Ship.jpg" width="500" height="250"> 
+<img src="images/LegendOfZelda.jpg" width="500" height="250"> <img src="images/Ship.jpeg" width="500" height="250"> 
 
 In "The Legend of Zelda: Ocarina of Time," the adult incarnation of Link acquires the mesmerizing "Song of Storms" from the Phonogram Man within the confines of the Kakariko Windmill. This bewitching tune harbors remarkable abilities; upon its performance, it can conjure rain, reveal hidden grottoes, and nurture Magic Bean sprouts to yield Fairies.
 
@@ -74,12 +74,12 @@ Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https
 he NEUTRINO Diffusion—an AI-powered Singing Voice Generator offered as freeware by Studio Neutrino—leverages artificial intelligence to analyze musical scores and generate vocals independently. Mastering this tool was challenging due to its instructions being available exclusively in Japanese. However, after dedicating time to unravel its features, we have acquired significant understanding, which we detail further below. This language barrier is the reason why Merrow and Nakumo's vocals are in Japanese rather than English.
 
 Step-by-step instructions:
-- Download NEUTRINO/Voicebanks here: [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC)
-- Extract the NEUTRINO folder from the zip file appropriate for your platform and save it to your local file system. 
+- Download the NEUTRINO/Voicebanks from [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC)
+- Unzip the NEUTRINO folder from the appropriate file for your operating system and save it onto your local drive. 
 - The MERROW voicebank is included with the NEUTRINO package by default. If you wish to use a different voicebank, you can download them from [Neutrino - Diffusion Google Drive](https://drive.google.com/drive/folders/1cDicMle0z0y6zRLbQp3dD2kI-Zn21YHC). After downloading, extract the voicebank and place it in the NEUTRINO/model folder.
-- The NEUTRINO package comes with three sample scores by default. If you're interested in using more scores, consider downloading and installing [MuseScore](https://musescore.com/dashboard). Additionally, I've provided scores that I created specifically for this project, which can be found in the "NEUTRINO" subfolder. (Note: NEUTRINO only recognizes lyrics written in Hiragana or Katakana. If you want a Vocaloid to sing in other languages, you must first perform a phonetic translation.)
-- Using a text editor, edit the NEUTRINO/Run.bat script to specify the desired score (BASENAME) and voicebank (ModelDir).
-- Using a command/terminal app, navigate to the NEUTRINO folder and then execute Run.bat.
+- The NEUTRINO package comes with three sample scores by default. If you're interested in using more scores, consider downloading and installing [MuseScore](https://musescore.com/dashboard). Additionally, I have included custom scores crafted expressly for this project, located within the "NEUTRINO" subfolder. Please note that NEUTRINO only processes lyrics in Hiragana or Katakana. To have a Vocaloid perform in other languages, a phonetic translation must be conducted first.
+- Edit the NEUTRINO/Run.bat script to specify the desired score (BASENAME) and voicebank (ModelDir).
+- Open a command/terminal application, navigate to the NEUTRINO folder, and then run the Run.bat file.
 - The generated sound files can be found in the NEUTRINO/output folder.
 
 ## 5. Final production
