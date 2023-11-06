@@ -23,30 +23,31 @@ The musical is composed of seven distinct sections.
 <img src="images/overall_flow.png" width="400" height="200"> 
 
 Each one of us takes a specific role in each section:
-- __Introduction - __Main Instrument (Piano): Jeffrey
-- __Part I - __Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
-- __Part II - __Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instrument: Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
-- __Part III - __Singer(s): Brandon; Main Instrument (Piano): Jeffrey
-- __Part IV - __Singer(s): Wendy; Main Instrument (Piano): Frank
-- __Part V - __Singer(s): ALL; Main Instrument (Piano): Frank
-- __End - __Main Instrument (Piano): Frank
+- __Introduction -__ Main Instrument (Piano): Jeffrey
+- __Part I -__ Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
+- __Part II -__ Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instrument (Piano, NSynth and ChucK): Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
+- __Part III -__ Singer(s): Brandon; Main Instrument (Piano): Jeffrey
+- __Part IV -__ Singer(s): Wendy; Main Instrument (Piano): Frank
+- __Part V -__ Singer(s): ALL; Main Instrument (Piano): Frank
+- __End -__ Main Instrument (Piano): Frank
 
 Below you will find the musical scores for each section.
 
 <img src="images/songscore_1.png" width="200" height="100"><img src="images/songscore_2.png" width="200" height="100"><img src="images/songscore_3.png" width="200" height="100"><img src="images/songscore_4.png" width="200" height="100"><img src="images/songscore_5.png" width="200" height="100">
 
 ## 4. Experimentation with Music Technologies
-A dynamic ensemble of seven spirited enthusiasts fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the innovative capabilities of AI vocaloids, the pioneering Google Nsynth neural synthesizer, and the flexible ChucK music programming language.
+We fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the the flexible ChucK music programming language, the pioneering Google Nsynth neural synthesizer, and innovative capabilities of AI vocaloids.
 
 ### 4.1 ChucK - Music Programming Language
 [<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
-__Programming__ offers a unique avenue for musical exploration, which is also a key focus of this project. We have chosen [__ChucK__](https://chuck.stanford.edu/), a specialized programming language tailored for real-time sound synthesis and music creation, as our primary tool for this journey.
+We have chosen [__ChucK__](https://chuck.stanford.edu/), a programming language designed for real-time sound synthesis and music creation, as one of our primary tools for Part II music generation.
+- The ChucK codes we have implemented for different instruments are under the "chucK" folder. We have implemented sythesizers for: cymbal, rainstick, glockenspiel, and vibraphone.
+- The music score for ChucK is at: chucK/SongOfStroms_Part02.mscz.
+- The melody created from ChucK is at: chuck/chuck_part02.wav.
 
-Instructions
+Instructions for downloading and using ChucK:
 - Download ChucK here: [ChucK](https://chuck.stanford.edu/)
-- The music score for ChucK is chucK/SongOfStroms_Part02.mscz.
-- The ChucK codes implement for different instruments are under chucK.
 - Save the generate music to .wav: 
   - Following the [instructions](http://learningChuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
   - Using a command/terminal app, type "chucK score.ck rec-auto.ck -s" 
