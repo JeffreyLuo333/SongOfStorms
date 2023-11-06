@@ -24,7 +24,7 @@ The musical is composed of seven distinct sections.
 
 <img src="images/overall_flow.png" width="400" height="200"> 
 
-Each one of us takes a specific role in each section:
+Every one of us assumes a distinct role in each section:
 - __Introduction -__ Main Instrument (Piano): Jeffrey
 - __Part I -__ Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
 - __Part II -__ Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instruments (__Piano, NSynth and ChucK__): Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
@@ -84,6 +84,24 @@ Step-by-step instructions:
 - The generated sound files can be found in the NEUTRINO/output folder.
 
 ## 5. Final production
+Our team of seven: 
+<img src="images/Team.jpg" width="400" height="200"> 
+
+Snapshots from various parts of the musical:
+__Part I__
+<img src="images/Part1_1.jpg" width="400" height="200"> <img src="images/Part1_2.jpg" width="400" height="200"> 
+
+__Part II__
+<img src="images/Part2_1.jpg" width="400" height="200"> <img src="images/Part2_2.jpg" width="400" height="200"> 
+
+__Part III__
+<img src="images/Part3_1.jpg" width="400" height="200"> <img src="images/Part3_3.jpg" width="400" height="200"> 
+
+__Part IV__
+<img src="images/Part4_1.jpg" width="400" height="200"> <img src="images/Part4_2.jpg" width="400" height="200"> 
+
+__Part V__
+<img src="images/Part5.jpg" width="400" height="200"> 
 
 Good luck and have fun!!!!!
 
