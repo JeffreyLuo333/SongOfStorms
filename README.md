@@ -110,7 +110,7 @@ __Part V__
 
 <img src="images/Part5.jpg" width="400" height="200"> 
 
-Good luck and have fun!!!!!
+Good luck and have fun!!!!! Should you run into any issues, please feel free to contact us at jeffrey.luo333@gmail.com
 
 
 
