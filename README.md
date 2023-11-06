@@ -4,7 +4,7 @@
 To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia musical production, please click on the image above or follow this link: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 
 ## 1. Project objective
-To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the enchanting sounds from Virtual Studio Technology plugins, Google's NSynth neural synthesizer, ChucK music programming language, AI-powered Vocaloid, and human vocals.
+To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`Virtual Studio Technology plugins`__, __`Google's NSynth neural synthesizer`__, __`Physics-based synthesizers`__ built with the __`ChucK music programming language`__, __`AI-powered Vocaloid`__, and human vocals.
 
 ## 2. Background for "The Legend of Zelda" and "Song of Storms" 
 "The Legend of Zelda," an iconic video game series that first captivated my brother Michael, showcases the enthralling __"Song of Storms__," composed by Koji Kondo. Despite the eight-year age gap between my brother and me, this melody has enthralled me, recurring throughout the series and seizing my heart and imagination. Its bewitching tune strikes a chord within me, creating an indelible memory.
@@ -46,7 +46,7 @@ We fused the heartfelt expressions of live musicians with the cutting-edge sound
 [<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
 We have chosen [__ChucK__](https://chuck.stanford.edu/), a programming language designed for real-time sound synthesis and music creation, as one of our primary tools for Part II music generation.
-- The ChucK codes we've implemented for various instruments are located within the "chucK" directory. We have refined the synthesizer codes I initially developed in a separate project for __cymbal, rainstick, glockenspiel, and vibraphone__.
+- The ChucK codes we've implemented for various instruments are located within the "chucK" directory. We have refined the synthesizer codes I initially developed in a separate project for __`cymbal`__, __`rainstick`__, __`glockenspiel`__, and __`vibraphone`__.
 - The music score for ChucK can be found at: __chucK/SongOfStroms_Part02.mscz__.
 - The melody generated from ChucK synthesizers can be found at: __chuck/chuck_part02.wav__.
 
@@ -68,7 +68,7 @@ I assembled the instrument based on the [open-source](https://github.com/googlec
 ### 4.3 AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
-Vocaloid is a singing voice synthesizer software. The integration of __Vocaloid__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
+__`Vocaloid`__ is a singing voice synthesizer software. The integration of __`Vocaloid`__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
 
 Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
 
