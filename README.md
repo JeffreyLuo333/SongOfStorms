@@ -18,8 +18,18 @@ Fascinatingly, the mystical influence of the "Song of Storms" extends even beyon
 Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
 
 ## 3. The musical's composition
-![image](https://github.com/JeffreyLuo333/SongOfStorms/assets/114297879/cf836582-76ee-4ce4-b630-8b1b786daa5d)
+The musical consists of 5 sections.
+<img src="images/overall_flow" width="400" height="200"> 
 
+Each one of us takes a specific role in each section:
+- __Part I - __Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
+- __Part II - __Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instrument: Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
+- __Part III - __Singer(s): Brandon; Main Instrument (Piano): Jeffrey
+- __Part IV - __Singer(s): Wendy; Main Instrument (Piano): Frank
+- __Part V - __Singer(s): ALL; Main Instrument (Piano): Frank
+
+Below you will find the musical scores for each section.
+<img src="images/songscore_1.jpg" width="200" height="100"><img src="images/songscore_2.jpg" width="200" height="100"><img src="images/songscore_3.jpg" width="200" height="100"><img src="images/songscore_4.jpg" width="200" height="100"><img src="images/songscore_5.jpg" width="200" height="100">
 
 ## 4. Music technologies implemented
 A dynamic ensemble of seven spirited enthusiasts fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the innovative capabilities of AI vocaloids, the pioneering Google Nsynth neural synthesizer, and the flexible ChucK music programming language.
@@ -59,7 +69,7 @@ Instructions
 - Using a command/terminal app, navigate to the NEUTRINO folder and then execute Run.bat.
 - The generated sound files can be found in the NEUTRINO/output folder.
 
-
+## 5. Final production
 
 Good luck and have fun!!!!!
 
