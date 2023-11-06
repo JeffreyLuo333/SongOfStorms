@@ -70,7 +70,7 @@ I assembled the instrument based on the [open-source](https://github.com/googlec
 
 __`Vocaloid`__ is a singing voice synthesizer software. The integration of __`Vocaloid`__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
 
-Merrow and Nakumo are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
+__Merrow__ and __Nakumo__ are AI-powered vocaloids, available at [Studio Neutrino](https://studio-neutrino.com/).
 
 The NEUTRINO Diffusion—an AI-powered Singing Voice Generator offered as freeware by Studio Neutrino—leverages artificial intelligence to analyze musical scores and generate vocals independently. Mastering this tool was challenging due to its instructions being available exclusively in Japanese. However, after dedicating time to unravel its features, we have acquired significant understanding, which we detail further below. This language barrier is the reason why Merrow and Nakumo's vocals are in Japanese rather than English.
 
