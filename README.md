@@ -20,7 +20,7 @@ Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms
 ## 3. The musical's composition
 The musical is composed of five distinct sections.
 
-<img src="images/overall_flow" width="400" height="200"> 
+<img src="images/overall_flow.png" width="400" height="200"> 
 
 Each one of us takes a specific role in each section:
 - __Part I - __Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
@@ -31,7 +31,7 @@ Each one of us takes a specific role in each section:
 
 Below you will find the musical scores for each section.
 
-<img src="images/songscore_1.jpg" width="200" height="100"><img src="images/songscore_2.jpg" width="200" height="100"><img src="images/songscore_3.jpg" width="200" height="100"><img src="images/songscore_4.jpg" width="200" height="100"><img src="images/songscore_5.jpg" width="200" height="100">
+<img src="images/songscore_1.png" width="200" height="100"><img src="images/songscore_2.png" width="200" height="100"><img src="images/songscore_3.png" width="200" height="100"><img src="images/songscore_4.png" width="200" height="100"><img src="images/songscore_5.png" width="200" height="100">
 
 ## 4. Experimentation with Music Technologies
 A dynamic ensemble of seven spirited enthusiasts fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the innovative capabilities of AI vocaloids, the pioneering Google Nsynth neural synthesizer, and the flexible ChucK music programming language.
@@ -50,7 +50,7 @@ Instructions
   - Using a command/terminal app, type "chucK score.ck rec-auto.ck -s" 
 
 ### 4.2 Google NSynth Super - AI-Power Synthesizer
-[<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)
+[<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)<img src="images/NSynth_action.gif" width="400" height="200"> 
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an AI-driven synthesizer, borne out of the innovative efforts of Magenta, a dedicated research project within Google. My brother, Michael, and I constructed this instrument to delve into how machine learning tools can offer artists novel avenues for creating art and music. If you're interested in crafting your own, follow the instructions at: [Open NSynth Super](https://github.com/googlecreativelab/open-nsynth-super).
 
