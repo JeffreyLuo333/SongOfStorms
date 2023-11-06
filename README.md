@@ -89,6 +89,7 @@ Our team of seven:
 <img src="images/Team.jpg" width="400" height="200"> 
 
 Snapshots from various parts of the musical:
+
 __Part I__
 
 <img src="images/Part1_1.jpg" width="400" height="200"> <img src="images/Part1_2.jpg" width="400" height="200"> 
@@ -99,7 +100,7 @@ __Part II__
 
 __Part III__
 
-<img src="images/Part3_1.jpg" width="400" height="200"> <img src="images/Part3_3.jpg" width="400" height="200"> 
+<img src="images/Part3_1.jpg" width="400" height="200"> <img src="images/Part3_2.jpg" width="400" height="200"> 
 
 __Part IV__
 
