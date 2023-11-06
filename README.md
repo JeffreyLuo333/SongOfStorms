@@ -33,7 +33,7 @@ Below you will find the musical scores for each section.
 
 <img src="images/songscore_1.jpg" width="200" height="100"><img src="images/songscore_2.jpg" width="200" height="100"><img src="images/songscore_3.jpg" width="200" height="100"><img src="images/songscore_4.jpg" width="200" height="100"><img src="images/songscore_5.jpg" width="200" height="100">
 
-## 4. Music technologies implemented
+## 4. Experimentation with Music Technologies
 A dynamic ensemble of seven spirited enthusiasts fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the innovative capabilities of AI vocaloids, the pioneering Google Nsynth neural synthesizer, and the flexible ChucK music programming language.
 
 ### 4.1 ChucK - Music Programming Language
