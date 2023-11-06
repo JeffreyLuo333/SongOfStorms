@@ -1,10 +1,10 @@
-# Song of Storms
+![image](https://github.com/JeffreyLuo333/SongOfStorms/assets/114297879/2196a072-5e91-45aa-887e-9eb62297de1b)# Song of Storms
 [<img src="images/SongOfStorms_Link.jpeg" width="400" height="200">](https://youtu.be/WxbQ2BDVnvQ)
 
 To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia musical production, please click on the image above or follow this link: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 
 ## 1. Project objective
-To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`Virtual Studio Technology plugins`__, __`Google's NSynth neural synthesizer`__, __`Physics-based synthesizers`__ built with the __`ChucK music programming language`__, __`AI-powered Vocaloid`__, and human vocals.
+To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`VST sample-based synthesizer plugins`__, __`Google's NSynth neural synthesizer`__, __`Physics-based synthesizers`__ built with the __`ChucK music programming language`__, __`AI-powered Vocaloid`__, and human vocals.
 
 ## 2. Background for "The Legend of Zelda" and "Song of Storms" 
 "The Legend of Zelda," an iconic video game series that first captivated my brother Michael, showcases the enthralling __"Song of Storms__," composed by Koji Kondo. Despite the eight-year age gap between my brother and me, this melody has enthralled me, recurring throughout the series and seizing my heart and imagination. Its bewitching tune strikes a chord within me, creating an indelible memory.
