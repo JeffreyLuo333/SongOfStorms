@@ -18,16 +18,18 @@ Fascinatingly, the mystical influence of the "Song of Storms" extends even beyon
 Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
 
 ## 3. The musical's composition
-The musical is composed of five distinct sections.
+The musical is composed of seven distinct sections.
 
 <img src="images/overall_flow.png" width="400" height="200"> 
 
 Each one of us takes a specific role in each section:
+- __Introduction - __Main Instrument (Piano): Jeffrey
 - __Part I - __Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
 - __Part II - __Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instrument: Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
 - __Part III - __Singer(s): Brandon; Main Instrument (Piano): Jeffrey
 - __Part IV - __Singer(s): Wendy; Main Instrument (Piano): Frank
 - __Part V - __Singer(s): ALL; Main Instrument (Piano): Frank
+- __End - __Main Instrument (Piano): Frank
 
 Below you will find the musical scores for each section.
 
