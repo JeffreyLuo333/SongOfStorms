@@ -19,6 +19,7 @@ Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms
 
 ## 3. The musical's composition
 The musical consists of 5 sections.
+
 <img src="images/overall_flow" width="400" height="200"> 
 
 Each one of us takes a specific role in each section:
@@ -29,6 +30,7 @@ Each one of us takes a specific role in each section:
 - __Part V - __Singer(s): ALL; Main Instrument (Piano): Frank
 
 Below you will find the musical scores for each section.
+
 <img src="images/songscore_1.jpg" width="200" height="100"><img src="images/songscore_2.jpg" width="200" height="100"><img src="images/songscore_3.jpg" width="200" height="100"><img src="images/songscore_4.jpg" width="200" height="100"><img src="images/songscore_5.jpg" width="200" height="100">
 
 ## 4. Music technologies implemented
