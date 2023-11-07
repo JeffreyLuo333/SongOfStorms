@@ -66,7 +66,7 @@ I assembled the instrument based on the [open-source](https://github.com/googlec
 <img src="images/Nsynth_arch.jpg" width="400" height="200"> 
 
 ### 4.3 AI Vocaloids (Merrow and Nakumo)
-[<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
+[<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)<img src="images/DAW.jpg" width="400" height="200">
 
 __`Vocaloid`__ is a singing voice synthesizer software. The integration of __`Vocaloid`__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
 
@@ -86,9 +86,13 @@ Step-by-step instructions:
 ## 5. Final production
 Our team of seven: 
 
-<img src="images/Team.jpg" width="400" height="200"> 
+<img src="images/StartSongOfStorms.jpg" width="400" height="200"> 
 
 Snapshots from various parts of the musical:
+
+__Introduction__
+
+<img src="images/Part5.jpg" width="400" height="200"> 
 
 __Part I__
 
@@ -109,6 +113,10 @@ __Part IV__
 __Part V__
 
 <img src="images/Part5.jpg" width="400" height="200"> 
+
+__Ending__
+
+<img src="images/Ending.jpg" width="400" height="200"> 
 
 Good luck and have fun!!!!! Should you run into any issues, please feel free to contact us at jeffrey.luo333@gmail.com
 
