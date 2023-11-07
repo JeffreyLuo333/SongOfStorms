@@ -27,7 +27,7 @@ The musical is composed of seven distinct sections.
 Every one of us assumes a distinct role in each section:
 - __Introduction -__ Main Instrument (Piano): Jeffrey
 - __Part I -__ Singer(s): Amie & Brandon; Main Instrument (Piano): Jeffrey
-- __Part II -__ Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instruments (__Piano, NSynth and ChucK__): Jeffrey & [Google Nsynth](https://experiments.withgoogle.com/nsynth-super)
+- __Part II -__ Singer(s): AI Singers--[MERROW & NAKUMA](https://studio-neutrino.com/); Main Instruments (__Piano, NSynth and ChucK__): Jeffrey & [Google NSynth Device](https://experiments.withgoogle.com/nsynth-super)
 - __Part III -__ Singer(s): Brandon; Main Instrument (Piano): Jeffrey
 - __Part IV -__ Singer(s): Wendy; Main Instrument (Piano): Frank
 - __Part V -__ Singer(s): ALL; Main Instrument (Piano): Frank
