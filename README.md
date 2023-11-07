@@ -40,7 +40,7 @@ Below you will find the musical scores for each section.
 ## 4. Experimentation with Music Technologies
 We fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the the flexible ChucK music programming language, the pioneering Google Nsynth neural synthesizer, and innovative capabilities of AI vocaloids.
 
-<img src="images/ChuckNSynth.jpg" width="500" height="250"> 
+<img src="images/DAW.jpg" width="400" height="200"> <img src="images/ChuckNSynth.jpg" width="400" height="200"> 
 
 ### 4.1 ChucK - Music Programming Language
 [<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
@@ -66,7 +66,7 @@ I assembled the instrument based on the [open-source](https://github.com/googlec
 <img src="images/Nsynth_arch.jpg" width="400" height="200"> 
 
 ### 4.3 AI Vocaloids (Merrow and Nakumo)
-[<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)<img src="images/DAW.jpg" width="400" height="200">
+[<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 __`Vocaloid`__ is a singing voice synthesizer software. The integration of __`Vocaloid`__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
 
@@ -92,7 +92,7 @@ Snapshots from various parts of the musical:
 
 __Introduction__
 
-<img src="images/Part5.jpg" width="400" height="200"> 
+<img src="images/Team.jpg" width="400" height="200"> 
 
 __Part I__
 
