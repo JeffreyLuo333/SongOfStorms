@@ -86,13 +86,13 @@ Step-by-step instructions:
 ## 5. Final production
 Our team of seven: 
 
-<img src="images/StartSongOfStorms.jpg" width="400" height="200"> 
+<img src="images/Team.jpg" width="400" height="200"> 
 
 Snapshots from various parts of the musical:
 
 __Introduction__
 
-<img src="images/Team.jpg" width="400" height="200"> 
+<img src="images/StartSongOfStorms.jpg" width="400" height="200"> 
 
 __Part I__
 
