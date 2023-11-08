@@ -3,10 +3,10 @@
 
 To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia musical production, please click on the image above or follow this link: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 
-## 1. Project objective
-To craft a miniature prototype of a futuristic orchestra’s music that blends human performance and technology-generated music, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`VST sample-based synthesizer plugins`__, __`Google's NSynth neural synthesizer`__, __`physics-based synthesizers`__ built with the __`ChucK`__ music programming language, __`AI-powered Vocaloid`__, and human vocals.
+## 1. Project objective (what)
+To craft a miniature prototype of a futuristic orchestra’s music that __`blends human performance and technology-generated music`__, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`VST sample-based synthesizer plugins`__, __`Google's NSynth neural synthesizer`__, __`physics-based synthesizers`__ built with the __`ChucK`__ music programming language, __`AI-powered Vocaloid`__, and human vocals.
 
-## 2. Background for "The Legend of Zelda" and "Song of Storms" 
+## 2. Background for "The Legend of Zelda" and "Song of Storms"  (why)
 "The Legend of Zelda," an iconic video game series that first captivated my brother Michael, showcases the enthralling __"Song of Storms__," composed by Koji Kondo. Despite the eight-year age gap between my brother and me, this melody has enthralled me, recurring throughout the series and seizing my heart and imagination. Its bewitching tune strikes a chord within me, creating an indelible memory.
 
 <img src="images/LegendOfZelda.jpg" width="500" height="250"> <img src="images/Ship.jpeg" width="500" height="250"> 
@@ -17,9 +17,6 @@ Across the expansive realm of Hyrule, there are distinct locales where Navi, Lin
 
 Fascinatingly, the mystical influence of the "Song of Storms" extends even beyond its melody. When Link, as a child, plays this entrancing tune inside Kakariko Windmill, it causes the windmill to spin at a dramatically increased velocity. This unexpected acceleration of the windmill's blades results in the draining of the well, unveiling the enigmatic realm of the Bottom of the Well. Here, new challenges and hidden secrets lie in wait.
 
-Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
-
-## 3. The musical's composition
 The musical is composed of seven distinct sections.
 
 <img src="images/overall_flow.png" width="400" height="200"> 
@@ -37,12 +34,14 @@ Below you will find the musical scores for each section.
 
 <img src="images/songscore_1.png" width="200" height="100"><img src="images/songscore_2.png" width="200" height="100"><img src="images/songscore_3.png" width="200" height="100"><img src="images/songscore_4.png" width="200" height="100"><img src="images/songscore_5.png" width="200" height="100">
 
-## 4. Experimentation with Music Technologies
+Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
+
+## 3. Experimentation with Music Technologies (how)
 We fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the the flexible ChucK music programming language, the pioneering Google Nsynth neural synthesizer, and innovative capabilities of AI vocaloids.
 
 <img src="images/DAW.jpg" width="400" height="200"> <img src="images/ChuckNSynth.jpg" width="400" height="200"> 
 
-### 4.1 ChucK - Music Programming Language
+### 3.1 ChucK - Music Programming Language
 [<img src="images/chuck-logo2023w.png" width="200" height="200">](https://chuck.stanford.edu/)
 
 We have chosen [__ChucK__](https://chuck.stanford.edu/), a programming language designed for real-time sound synthesis and music creation, as one of our primary tools for Part II music generation.
@@ -56,7 +55,7 @@ Instructions for downloading and using ChucK:
   - Follow the [instructions](http://learningChuck.blogspot.com/2012/05/saving-to-wav-files.html) in this blog.
   - Open a command/terminal application, type "chucK score.ck rec-auto.ck -s" 
 
-### 4.2 Google NSynth Super - AI-Power Synthesizer
+### 3.2 Google NSynth Super - AI-Power Synthesizer
 [<img src="images/GoogleNSynth.jpg" width="200" height="200">](https://nsynthsuper.withgoogle.com/)<img src="images/NSynth_action.gif" width="300" height="200"> 
 
 [__Google NSynth Super__](https://nsynthsuper.withgoogle.com/) is an open-source experimental musical instrument, built by the Magenta and Creative Lab teams at Google using TensorFlow and openFrameworks. It gives musicians the ability to make music using completely new sounds generated by the NSynth algorithm from 4 different source sounds. In Part II, the __marimba__'s sound is synthesized using NSynth.
@@ -67,7 +66,7 @@ If you're interested in crafting your own, follow the instructions at [Open NSyn
 
 <img src="images/Nsynth_arch.jpg" width="400" height="200"> 
 
-### 4.3 AI Vocaloids (Merrow and Nakumo)
+### 3.3 AI Vocaloids (Merrow and Nakumo)
 [<img src="images/Vocaloids.jpg" width="400" height="200">](https://studio-neutrino.com/)
 
 __`Vocaloid`__ is a singing voice synthesizer software. The integration of __`Vocaloid`__ into our project was both a source of inspiration and a challenge, one that was introduced by my brother, Michael. It was he who first exposed me to "The Legend of Zelda." As an avid fan of Hatsune Miku, a prominent Vocaloid from his time, Michael presented this creative challenge to our team. Spurred by his passion, we commenced our foray into the world of Vocaloids.
@@ -85,7 +84,7 @@ Step-by-step instructions:
 - Open a command/terminal application, navigate to the NEUTRINO folder, and then run the Run.bat file.
 - The generated sound files can be found in the NEUTRINO/output folder.
 
-## 5. Final production
+## 4. Final production
 Our team of seven: 
 
 <img src="images/Team.jpg" width="400" height="200"> 
