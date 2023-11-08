@@ -3,7 +3,7 @@
 
 To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia musical production, please click on the image above or follow this link: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 
-## 1. Project objective (why & what)
+## 1. Project objective
 To craft a miniature prototype of a futuristic orchestra’s music that __`blends human performance and technology-generated music`__, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`VST sample-based synthesizer plugins`__, __`Google's NSynth neural synthesizer`__, __`physics-based synthesizers`__ built with the __`ChucK`__ music programming language, __`AI-powered Vocaloid`__, and human vocals.
 
 ## 2. Background for "The Legend of Zelda" and "Song of Storms"
@@ -36,7 +36,7 @@ Below you will find the musical scores for each section.
 
 Dive into the world of __"The Legend of Zelda"__ and allow the __"Song of Storms"__ to transport you on an adventure brimming with __enchantment, exploration, and boundless possibilities__.
 
-## 3. Experimentation with Music Technologies (how)
+## 3. Experimentation with Music Technologies
 We fused the heartfelt expressions of live musicians with the cutting-edge sounds of technology-crafted melodies and AI-augmented vocaloids. Venturing beyond the confines of conventional Digital Audio Workstation (DAW) production, we created a novel musical experience by harnessing the the flexible ChucK music programming language, the pioneering Google Nsynth neural synthesizer, and innovative capabilities of AI vocaloids.
 
 <img src="images/DAW.jpg" width="400" height="200"> <img src="images/ChuckNSynth.jpg" width="400" height="200"> 
