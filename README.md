@@ -3,6 +3,8 @@
 
 To view the __[YouTube video](https://youtu.be/WxbQ2BDVnvQ)__ of this multimedia musical production, please click on the image above or follow this link: [Song of Stroms](https://youtu.be/WxbQ2BDVnvQ)
 
+Links to all my other __`music technology projects`__ (electronic instruments, AI-powered music signal processing software etc.) are at [http://jeffreyluo.com/#mt](http://jeffreyluo.com/#mt).
+
 ## 1. Project objective
 To craft a miniature prototype of a futuristic orchestra’s music that __`blends human performance and technology-generated music accompaniment`__, I led a team of seven enthusiasts in this reimagination of the "Song of Storms" from the iconic "Legend of Zelda" video game series. My piano melodies integrate with the __enchanting sounds__ from __`VST sample-based synthesizer plugins`__, __`Google's NSynth neural synthesizer`__, __`physics-based synthesizers`__ built with the __`ChucK`__ music programming language, __`AI-powered Vocaloid`__, and human vocals.
 
@@ -121,5 +123,6 @@ __Ending__
 
 Good luck and have fun!!!!! Should you run into any issues, please feel free to contact us at jeffrey.luo333@gmail.com
 
+Links to all my other __`music technology projects`__ (electronic instruments, AI-powered music signal processing software etc.) are at [http://jeffreyluo.com/#mt](http://jeffreyluo.com/#mt).
 
 
